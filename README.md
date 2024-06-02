@@ -17,4 +17,4 @@ La base de datos incluye variables que son esenciales para el análisis de la po
 - **Índices de desigualdad**
 - **Factores demográficos**
 - **Condiciones de vivienda**
-- **Acceso a servicios básicos (agua potable, saneamiento, electricidad)**
+- **Acceso a servicios básicos (electricidad)**
