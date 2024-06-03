@@ -10,11 +10,9 @@ La pobreza en África Subsahariana es un tema crítico que requiere una comprens
 
 La base de datos incluye variables que son esenciales para el análisis de la pobreza, tales como:
 
-- **Ingreso per cápita**
-- **Tasa de desempleo**
-- **Acceso a la educación**
-- **Acceso a servicios de salud**
-- **Índices de desigualdad**
-- **Factores demográficos**
-- **Condiciones de vivienda**
-- **Acceso a servicios básicos (electricidad)**
+- **PIB PER CÁPITA**
+- ** IDH**
+- **Datos para las regresiones**
+- **Crecimiento PIB PER CÁPITA**
+- **DATOS APARTE (acceso electricidad, población rural, tasa finalización primaria mujeres)**
+- ** Datos línea de la pobreza**
